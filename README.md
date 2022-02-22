@@ -1,3 +1,3 @@
 # netClientTest
 
-small project to test TCP functionality
+small project to test TCP client functionality
