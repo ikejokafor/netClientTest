@@ -1,3 +1,6 @@
-# netClientTest
+# Network Client Test
 
-small project to test TCP client functionality
+Small project to test TCP client functionality
+
+## Dependencies:
+network
